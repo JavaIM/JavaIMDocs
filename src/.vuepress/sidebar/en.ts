@@ -7,7 +7,20 @@ export const enSidebar = sidebar({
       text: "Guide",
       icon: "lightbulb",
       prefix: "guide/",
-      children: "structure",
+      children: [
+        {
+          text: "Install",
+          icon: "",
+          prefix: "install/",
+          children: "structure"
+        },
+        {
+          text: "Install",
+          icon: "",
+          prefix: "config/",
+          children: "structure"
+        }
+      ],
     },
     {
       text: "Docs",
