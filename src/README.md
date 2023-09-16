@@ -23,8 +23,7 @@ highlights:
     bgImage: https://theme-hope-assets.vuejs.press/bg/3-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
     highlights:
-      - title: Run <code>pnpm create vuepress-theme-hope hope-project</code> to create a new project with this theme.
-      - title: Run <code>pnpm create vuepress-theme-hope add .</code> in your project root to create a new project with this theme.
+      - title: Just unpack and use, only need to install Java.
 
   - header: Add things you want in markdown
     description: We extended the standard commonMark specification and added tons of new features for you.
@@ -258,5 +257,5 @@ highlights:
         details: Make your site more like an APP
         link: https://theme-hope.vuejs.press/guide/advanced/pwa.html
 
-copyright: true
+copyright: false
 footer: Copyright © 2021-present Yuezhikong
