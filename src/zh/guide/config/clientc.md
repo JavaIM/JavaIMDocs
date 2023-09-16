@@ -1,5 +1,5 @@
 ---
-title: Configure Server
+title: 客户端配置
 ---
 
 ## Introduction

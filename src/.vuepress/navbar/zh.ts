@@ -5,7 +5,7 @@ export const zhNavbar = navbar([
   {
     text: "指南",
     icon: "lightbulb",
-    prefix: "/guide/",
+    prefix: "./guide/",
     children: [
       {
         text: "安装",
@@ -17,14 +17,14 @@ export const zhNavbar = navbar([
         text: "配置",
         icon: "",
         prefix: "config/",
-        children: [{ text: "Client configuration", link: "clientc.md" },{ text: "Server configuration", link: "serverc.md" }],
+        children: [{ text: "客户端配置", link: "clientc.md" },{ text: "服务端配置", link: "serverc.md" }],
       },
     ],
   },
   {
     text: "文档",
     icon: "book",
-    prefix: "/docs/",
+    prefix: "./docs/",
     children: [
       {
         text: "Bar",

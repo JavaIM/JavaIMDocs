@@ -1,5 +1,5 @@
 ---
-title: Configure Client
+title: 服务端配置
 ---
 
 ## Introduction
