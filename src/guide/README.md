@@ -3,14 +3,12 @@ title: Guide
 icon: lightbulb
 ---
 
-## Highlight Features
+## Install JavaIM
 
-### Bar
+- [Install Client](install/client.md)
+- [Install Server](install/server.md)
 
-- [baz](bar/baz.md)
-- ...
+## Configure JavaIM
 
-### Foo
-
-- [ray](foo/ray.md)
-- ...
+- [Configure Client](config/clientc.md)
+- [Configure Server](config/serverc.md)

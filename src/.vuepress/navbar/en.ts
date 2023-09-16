@@ -8,16 +8,16 @@ export const enNavbar = navbar([
     prefix: "/guide/",
     children: [
       {
-        text: "Client",
+        text: "Install",
         icon: "",
-        prefix: "client/",
-        children: [],
+        prefix: "install/",
+        children: ["client.md","server.md"],
       },
       {
-        text: "Server",
+        text: "Config",
         icon: "",
-        prefix: "server/",
-        children: ["ray", { text: "...", icon: "ellipsis", link: "#" }],
+        prefix: "config/",
+        children: [{ text: "Client configuration", link: "clientc.md" },{ text: "Server configuration", link: "serverc.md" }],
       },
     ],
   },
