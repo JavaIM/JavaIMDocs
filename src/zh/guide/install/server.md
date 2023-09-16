@@ -64,5 +64,3 @@ MySQLDataBasePasswd=JavaIM  // MySQL数据库密码
 如果您希望自己构建JavaIM使用，请安装好Maven，配置完成Java开发环境，拉取JavaIM的仓库，运行“build.bat”或“build.sh”。
 
 注意，仓库中的代码通常是最新的，没有经过大量测试的，可能会出现大量Bug，不建议生产环境使用。
-
-目前预计将于2023年6月17日开始对于JavaIM的重构，以解决绝大多数的Bug
