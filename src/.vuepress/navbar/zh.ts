@@ -5,7 +5,7 @@ export const zhNavbar = navbar([
   {
     text: "指南",
     icon: "lightbulb",
-    prefix: "zh/guide/",
+    prefix: "./guide/",
     children: [
       {
         text: "安装",
