@@ -71,10 +71,10 @@ export default hopeTheme({
     // You should generate and use your own comment service
     comment: {
       provider: "Giscus",
-      repo: "vuepress-theme-hope/giscus-discussions",
-      repoId: "R_kgDOG_Pt2A",
+      repo: "javaIM/JavaIMDocs",
+      repoId: "R_kgDOKT9QpQ",
       category: "Announcements",
-      categoryId: "DIC_kwDOG_Pt2M4COD69",
+      categoryId: "DIC_kwDOKT9Qpc4CZXGq",
     },
 
     // All features are enabled for demo, only preserve features you need here
