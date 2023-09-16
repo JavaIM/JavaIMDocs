@@ -24,7 +24,7 @@ export const zhNavbar = navbar([
   {
     text: "文档",
     icon: "book",
-    prefix: "./zh/docs/",
+    prefix: "/zh/docs/",
     children: [
       {
         text: "Bar",
