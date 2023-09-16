@@ -15,7 +15,7 @@ export const enSidebar = sidebar({
           children: "structure"
         },
         {
-          text: "Install",
+          text: "Config",
           icon: "",
           prefix: "config/",
           children: "structure"
