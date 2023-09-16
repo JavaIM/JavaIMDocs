@@ -1,6 +1,5 @@
 ---
 title: Configure Server
-icon: lightbulb
 ---
 
 ## Introduction

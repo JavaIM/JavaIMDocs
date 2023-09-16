@@ -1,6 +1,5 @@
 ---
 title: Install Client
-icon: lightbulb
 ---
 
 ## Introduction

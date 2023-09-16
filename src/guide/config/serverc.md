@@ -1,6 +1,5 @@
 ---
 title: Configure Client
-icon: lightbulb
 ---
 
 ## Introduction
