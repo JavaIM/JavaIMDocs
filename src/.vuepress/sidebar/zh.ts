@@ -6,18 +6,18 @@ export const zhSidebar = sidebar({
     {
       text: "指南",
       icon: "lightbulb",
-      prefix: "guide/",
+      prefix: "./guide/",
       children: [
         {
           text: "安装",
           icon: "",
-          prefix: "install/",
+          prefix: "./install/",
           children: "structure"
         },
         {
           text: "配置",
           icon: "",
-          prefix: "config/",
+          prefix: "./config/",
           children: "structure"
         }
       ],
