@@ -6,7 +6,7 @@ export const zhSidebar = sidebar({
     {
       text: "指南",
       icon: "lightbulb",
-      prefix: "./guide/",
+      prefix: "guide/",
       children: [
         {
           text: "安装",
