@@ -8,7 +8,7 @@ bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
 heroText: JavaIM
-tagline: You can place the description of the project here.
+tagline: JavaIM is an encrypted instant messaging software written in Java.
 actions:
   - text: How to Start 💡
     link: ./guide/
@@ -18,15 +18,15 @@ actions:
     link: ./docs/
 
 highlights:
-  - header: Easy to install
+  - header: Easy to Start
     image: /assets/image/box.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/3-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
     highlights:
-      - title: Just unpack and use, only need to install Java.
+      - title: Just download and use, only need to install Java.
 
-  - header: Add things you want in markdown
-    description: We extended the standard commonMark specification and added tons of new features for you.
+  - header: All messages you send with JavaIM are encrypted.
+    description: JavaIM uses RSA and AES algorithm to encrypt communication content.
     image: /assets/image/markdown.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
