@@ -39,5 +39,5 @@ export const zhNavbar = navbar([
         children: ["ray", { text: "...", icon: "ellipsis", link: "#" }],
       },
     ],
-  },
+  }
 ]);
