@@ -12,7 +12,7 @@ export default hopeTheme({
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "/logo.png",
+  logo: "https://javaim.qileoffice.top/logo.png",
 
   repo: "JavaIM/JavaIM",
 
