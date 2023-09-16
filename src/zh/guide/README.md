@@ -3,12 +3,12 @@ title: Guide
 icon: lightbulb
 ---
 
-## Install JavaIM
+## 安装JavaIM
 
-- [Install Client](install/client.md)
-- [Install Server](install/server.md)
+- [安装客户端](install/client.md)
+- [安装服务端](install/server.md)
 
-## Configure JavaIM
+## 配置JavaIM
 
-- [Configure Client](config/clientc.md)
-- [Configure Server](config/serverc.md)
+- [配置客户端](config/clientc.md)
+- [配置服务端](config/serverc.md)
