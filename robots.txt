@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://javaim.qileoffice.top/sitemap.xml
+Sitemap: https://javaim.qileoffice.top/zh/sitemap.xml
