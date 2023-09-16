@@ -1,21 +1,21 @@
 ---
 home: true
 icon: home
-title: Project home
-heroImage: /logo.svg
+title: JavaIM
+heroImage: /logo.png
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
-heroText: Project name
+heroText: JavaIM
 tagline: You can place the description of the project here.
 actions:
-  - text: How to Use 💡
-    link: ./demo/
+  - text: How to Start 💡
+    link: ./guide/
     type: primary
 
   - text: Docs
-    link: ./guide/
+    link: ./docs/
 
 highlights:
   - header: Easy to install
