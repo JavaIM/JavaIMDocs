@@ -14,7 +14,7 @@ export default hopeTheme({
 
   logo: "/logo.png",
 
-  repo: "JavaIM/JavaIM",
+  repo: "JavaIM/JavaIMDocs",
 
   docsDir: "src",
 
