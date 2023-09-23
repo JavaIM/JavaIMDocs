@@ -3,11 +3,11 @@ import { enNavbar, zhNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://javaim.qileoffice.top",
+  hostname: "https://javaim.yuezhikong.cn",
 
   author: {
     name: "七楽",
-    url: "https://javaim.qileoffice.top",
+    url: "https://javaim.yuezhikong.cn",
   },
 
   iconAssets: "fontawesome-with-brands",
@@ -71,7 +71,7 @@ export default hopeTheme({
     // You should generate and use your own comment service
     comment: {
       provider: "Giscus",
-      repo: "javaIM/JavaIMDocs",
+      repo: "JavaIM/JavaIMDocs",
       repoId: "R_kgDOKT9QpQ",
       category: "Announcements",
       categoryId: "DIC_kwDOKT9Qpc4CZXGq",
